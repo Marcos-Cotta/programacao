@@ -1,0 +1,14 @@
+C:\Users\amigo\Desktop\aprendendo entity\EntityFrameworkPrimeirosPassos\Data\bin\Debug\Data.dll.config
+C:\Users\amigo\Desktop\aprendendo entity\EntityFrameworkPrimeirosPassos\Data\bin\Debug\Data.dll
+C:\Users\amigo\Desktop\aprendendo entity\EntityFrameworkPrimeirosPassos\Data\bin\Debug\Data.pdb
+C:\Users\amigo\Desktop\aprendendo entity\EntityFrameworkPrimeirosPassos\Data\bin\Debug\Domain.dll
+C:\Users\amigo\Desktop\aprendendo entity\EntityFrameworkPrimeirosPassos\Data\bin\Debug\EntityFramework.dll
+C:\Users\amigo\Desktop\aprendendo entity\EntityFrameworkPrimeirosPassos\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\amigo\Desktop\aprendendo entity\EntityFrameworkPrimeirosPassos\Data\bin\Debug\Domain.pdb
+C:\Users\amigo\Desktop\aprendendo entity\EntityFrameworkPrimeirosPassos\Data\bin\Debug\EntityFramework.xml
+C:\Users\amigo\Desktop\aprendendo entity\EntityFrameworkPrimeirosPassos\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\amigo\Desktop\aprendendo entity\EntityFrameworkPrimeirosPassos\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\amigo\Desktop\aprendendo entity\EntityFrameworkPrimeirosPassos\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\amigo\Desktop\aprendendo entity\EntityFrameworkPrimeirosPassos\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\amigo\Desktop\aprendendo entity\EntityFrameworkPrimeirosPassos\Data\obj\Debug\Data.dll
+C:\Users\amigo\Desktop\aprendendo entity\EntityFrameworkPrimeirosPassos\Data\obj\Debug\Data.pdb
